@@ -1,0 +1,13 @@
+<application>
+  <component name="PhpTestFrameworkVersionCache">
+    <tools_cache>
+      <tool tool_name="PHPUnit">
+        <cache>
+          <versions>
+            <info id="interpreter-066b9f41-341b-446e-8e60-1baf219d1816" version="9.5.4" />
+          </versions>
+        </cache>
+      </tool>
+    </tools_cache>
+  </component>
+</application>

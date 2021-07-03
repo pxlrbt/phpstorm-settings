@@ -99,6 +99,12 @@
           <presentable-name>Arch Linux</presentable-name>
         </descriptor>
         <descriptor>
+          <id>ARCH2</id>
+          <microsoft-id>Arch</microsoft-id>
+          <executable-path>D:/dev/.wsl/arch2/Arch.exe</executable-path>
+          <presentable-name>Arch Linux 2</presentable-name>
+        </descriptor>
+        <descriptor>
           <id>SLES-15-SP1</id>
           <microsoft-id>SLES-15-SP1</microsoft-id>
           <executable-path>SLES-15-SP1.exe</executable-path>

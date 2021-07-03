@@ -1,0 +1,42 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_FAMILY" value="Fira Code" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Retina" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
+    <option name="LINE_SPACING" value="1.4" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="JetBrains Mono" />
+  </component>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="PHP" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="docker.inlay.hints" />
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
+</application>
